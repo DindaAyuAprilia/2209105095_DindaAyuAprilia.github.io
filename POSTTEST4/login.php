@@ -106,7 +106,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <a style="padding-top: 40px;float: left;" href="#">
                 <img src="xuensun.jpg" alt="Logo" class="logo">
             </a>
-            <a style="padding-top: 40px;float: right;" href="About.html">About Me</a>
+            <a style="padding-top: 40px;float: right;" href="index.html">About Me</a>
             <a style="padding-top: 40px;float: right;" href="index.php">Home</a>
 
         </div>
