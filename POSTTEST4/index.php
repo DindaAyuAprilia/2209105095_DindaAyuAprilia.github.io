@@ -32,7 +32,7 @@ if (isset($_SESSION['logged_in']) && $_SESSION['logged_in']) {
             <a style="padding-top: 30px;float: left;" href="#">
                 <img src="xuensun.jpg" alt="Logo" class="logo">
             </a>
-            <a style="padding-top: 40px;float: right;" href="About.html">About Me</a>
+            <a style="padding-top: 40px;float: right;" href="index.html">About Me</a>
             <a style="padding-top: 40px;float: right;" href="index.php">Home</a>
             <a style="padding-top: 40px;float: right;" class="mode-button" onclick="toggleMode()">Mode Gelap/Terang</a>
 
